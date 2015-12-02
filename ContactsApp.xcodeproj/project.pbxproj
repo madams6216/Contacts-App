@@ -15,6 +15,10 @@
 		76E0D1241C0F39D2001C7BA2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76E0D1221C0F39D2001C7BA2 /* LaunchScreen.storyboard */; };
 		76E0D12F1C0F39D2001C7BA2 /* ContactsAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76E0D12E1C0F39D2001C7BA2 /* ContactsAppTests.swift */; };
 		76E0D13A1C0F39D2001C7BA2 /* ContactsAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76E0D1391C0F39D2001C7BA2 /* ContactsAppUITests.swift */; };
+		76E0D14A1C0F3A99001C7BA2 /* saveButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 76E0D1481C0F3A99001C7BA2 /* saveButton.png */; };
+		76E0D14B1C0F3A99001C7BA2 /* search.png in Resources */ = {isa = PBXBuildFile; fileRef = 76E0D1491C0F3A99001C7BA2 /* search.png */; };
+		76E0D14E1C0F3B31001C7BA2 /* add.png in Resources */ = {isa = PBXBuildFile; fileRef = 76E0D14C1C0F3B31001C7BA2 /* add.png */; };
+		76E0D14F1C0F3B31001C7BA2 /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = 76E0D14D1C0F3B31001C7BA2 /* home.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +53,10 @@
 		76E0D1351C0F39D2001C7BA2 /* ContactsAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ContactsAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		76E0D1391C0F39D2001C7BA2 /* ContactsAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsAppUITests.swift; sourceTree = "<group>"; };
 		76E0D13B1C0F39D2001C7BA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		76E0D1481C0F3A99001C7BA2 /* saveButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = saveButton.png; sourceTree = "<group>"; };
+		76E0D1491C0F3A99001C7BA2 /* search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = search.png; sourceTree = "<group>"; };
+		76E0D14C1C0F3B31001C7BA2 /* add.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = add.png; sourceTree = "<group>"; };
+		76E0D14D1C0F3B31001C7BA2 /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +107,9 @@
 		76E0D1151C0F39D1001C7BA2 /* ContactsApp */ = {
 			isa = PBXGroup;
 			children = (
+				76E0D14C1C0F3B31001C7BA2 /* add.png */,
+				76E0D14D1C0F3B31001C7BA2 /* home.png */,
+				76E0D1471C0F3A98001C7BA2 /* buttons */,
 				76E0D1161C0F39D1001C7BA2 /* AppDelegate.swift */,
 				76E0D1181C0F39D1001C7BA2 /* ViewController.swift */,
 				76E0D11A1C0F39D2001C7BA2 /* Main.storyboard */,
@@ -126,6 +137,15 @@
 				76E0D13B1C0F39D2001C7BA2 /* Info.plist */,
 			);
 			path = ContactsAppUITests;
+			sourceTree = "<group>";
+		};
+		76E0D1471C0F3A98001C7BA2 /* buttons */ = {
+			isa = PBXGroup;
+			children = (
+				76E0D1481C0F3A99001C7BA2 /* saveButton.png */,
+				76E0D1491C0F3A99001C7BA2 /* search.png */,
+			);
+			path = buttons;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,7 +255,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				76E0D14B1C0F3A99001C7BA2 /* search.png in Resources */,
+				76E0D14A1C0F3A99001C7BA2 /* saveButton.png in Resources */,
+				76E0D14F1C0F3B31001C7BA2 /* home.png in Resources */,
 				76E0D1241C0F39D2001C7BA2 /* LaunchScreen.storyboard in Resources */,
+				76E0D14E1C0F3B31001C7BA2 /* add.png in Resources */,
 				76E0D1211C0F39D2001C7BA2 /* Assets.xcassets in Resources */,
 				76E0D11C1C0F39D2001C7BA2 /* Main.storyboard in Resources */,
 			);
