@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		763C4D621C0F4E0E0048DF1C /* app60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 763C4D551C0F4E0E0048DF1C /* app60@2x.png */; };
+		763C4D631C0F4E0E0048DF1C /* app60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 763C4D561C0F4E0E0048DF1C /* app60@3x.png */; };
+		763C4D641C0F4E0E0048DF1C /* sl29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 763C4D571C0F4E0E0048DF1C /* sl29@2x.png */; };
+		763C4D651C0F4E0E0048DF1C /* sl29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 763C4D581C0F4E0E0048DF1C /* sl29@3x.png */; };
+		763C4D661C0F4E0E0048DF1C /* sl40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 763C4D591C0F4E0E0048DF1C /* sl40@2x.png */; };
+		763C4D671C0F4E0E0048DF1C /* sl40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 763C4D5A1C0F4E0E0048DF1C /* sl40@3x.png */; };
+		763C4D681C0F4E0E0048DF1C /* saveButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 763C4D5C1C0F4E0E0048DF1C /* saveButton.png */; };
+		763C4D691C0F4E0E0048DF1C /* search.png in Resources */ = {isa = PBXBuildFile; fileRef = 763C4D5D1C0F4E0E0048DF1C /* search.png */; };
+		763C4D6A1C0F4E0E0048DF1C /* CoreDataDemoApp.png in Resources */ = {isa = PBXBuildFile; fileRef = 763C4D5E1C0F4E0E0048DF1C /* CoreDataDemoApp.png */; };
+		763C4D6B1C0F4E0E0048DF1C /* add.png in Resources */ = {isa = PBXBuildFile; fileRef = 763C4D601C0F4E0E0048DF1C /* add.png */; };
+		763C4D6C1C0F4E0E0048DF1C /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = 763C4D611C0F4E0E0048DF1C /* home.png */; };
+		763C4D701C0F51550048DF1C /* ContactsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 763C4D6F1C0F51550048DF1C /* ContactsTableViewController.swift */; };
+		763C4D721C10AD020048DF1C /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 763C4D711C10AD020048DF1C /* AddViewController.swift */; };
 		76E0D1171C0F39D1001C7BA2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76E0D1161C0F39D1001C7BA2 /* AppDelegate.swift */; };
 		76E0D1191C0F39D1001C7BA2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76E0D1181C0F39D1001C7BA2 /* ViewController.swift */; };
 		76E0D11C1C0F39D2001C7BA2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76E0D11A1C0F39D2001C7BA2 /* Main.storyboard */; };
@@ -39,6 +52,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		763C4D551C0F4E0E0048DF1C /* app60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "app60@2x.png"; sourceTree = "<group>"; };
+		763C4D561C0F4E0E0048DF1C /* app60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "app60@3x.png"; sourceTree = "<group>"; };
+		763C4D571C0F4E0E0048DF1C /* sl29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sl29@2x.png"; sourceTree = "<group>"; };
+		763C4D581C0F4E0E0048DF1C /* sl29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sl29@3x.png"; sourceTree = "<group>"; };
+		763C4D591C0F4E0E0048DF1C /* sl40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sl40@2x.png"; sourceTree = "<group>"; };
+		763C4D5A1C0F4E0E0048DF1C /* sl40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sl40@3x.png"; sourceTree = "<group>"; };
+		763C4D5C1C0F4E0E0048DF1C /* saveButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = saveButton.png; sourceTree = "<group>"; };
+		763C4D5D1C0F4E0E0048DF1C /* search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = search.png; sourceTree = "<group>"; };
+		763C4D5E1C0F4E0E0048DF1C /* CoreDataDemoApp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CoreDataDemoApp.png; sourceTree = "<group>"; };
+		763C4D601C0F4E0E0048DF1C /* add.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = add.png; sourceTree = "<group>"; };
+		763C4D611C0F4E0E0048DF1C /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
+		763C4D6F1C0F51550048DF1C /* ContactsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactsTableViewController.swift; sourceTree = "<group>"; };
+		763C4D711C10AD020048DF1C /* AddViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 		76E0D1131C0F39D1001C7BA2 /* ContactsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContactsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		76E0D1161C0F39D1001C7BA2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		76E0D1181C0F39D1001C7BA2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -84,6 +110,48 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		763C4D531C0F4E0E0048DF1C /* coreDataDemoApp 2 */ = {
+			isa = PBXGroup;
+			children = (
+				763C4D541C0F4E0E0048DF1C /* app_icons */,
+				763C4D5B1C0F4E0E0048DF1C /* buttons */,
+				763C4D5E1C0F4E0E0048DF1C /* CoreDataDemoApp.png */,
+				763C4D5F1C0F4E0E0048DF1C /* tab_bar_icons */,
+			);
+			path = "coreDataDemoApp 2";
+			sourceTree = "<group>";
+		};
+		763C4D541C0F4E0E0048DF1C /* app_icons */ = {
+			isa = PBXGroup;
+			children = (
+				763C4D551C0F4E0E0048DF1C /* app60@2x.png */,
+				763C4D561C0F4E0E0048DF1C /* app60@3x.png */,
+				763C4D571C0F4E0E0048DF1C /* sl29@2x.png */,
+				763C4D581C0F4E0E0048DF1C /* sl29@3x.png */,
+				763C4D591C0F4E0E0048DF1C /* sl40@2x.png */,
+				763C4D5A1C0F4E0E0048DF1C /* sl40@3x.png */,
+			);
+			path = app_icons;
+			sourceTree = "<group>";
+		};
+		763C4D5B1C0F4E0E0048DF1C /* buttons */ = {
+			isa = PBXGroup;
+			children = (
+				763C4D5C1C0F4E0E0048DF1C /* saveButton.png */,
+				763C4D5D1C0F4E0E0048DF1C /* search.png */,
+			);
+			path = buttons;
+			sourceTree = "<group>";
+		};
+		763C4D5F1C0F4E0E0048DF1C /* tab_bar_icons */ = {
+			isa = PBXGroup;
+			children = (
+				763C4D601C0F4E0E0048DF1C /* add.png */,
+				763C4D611C0F4E0E0048DF1C /* home.png */,
+			);
+			path = tab_bar_icons;
+			sourceTree = "<group>";
+		};
 		76E0D10A1C0F39D1001C7BA2 = {
 			isa = PBXGroup;
 			children = (
@@ -107,6 +175,7 @@
 		76E0D1151C0F39D1001C7BA2 /* ContactsApp */ = {
 			isa = PBXGroup;
 			children = (
+				763C4D531C0F4E0E0048DF1C /* coreDataDemoApp 2 */,
 				76E0D14C1C0F3B31001C7BA2 /* add.png */,
 				76E0D14D1C0F3B31001C7BA2 /* home.png */,
 				76E0D1471C0F3A98001C7BA2 /* buttons */,
@@ -117,6 +186,8 @@
 				76E0D1221C0F39D2001C7BA2 /* LaunchScreen.storyboard */,
 				76E0D1251C0F39D2001C7BA2 /* Info.plist */,
 				76E0D11D1C0F39D2001C7BA2 /* ContactsApp.xcdatamodeld */,
+				763C4D6F1C0F51550048DF1C /* ContactsTableViewController.swift */,
+				763C4D711C10AD020048DF1C /* AddViewController.swift */,
 			);
 			path = ContactsApp;
 			sourceTree = "<group>";
@@ -255,13 +326,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				763C4D621C0F4E0E0048DF1C /* app60@2x.png in Resources */,
 				76E0D14B1C0F3A99001C7BA2 /* search.png in Resources */,
+				763C4D6C1C0F4E0E0048DF1C /* home.png in Resources */,
+				763C4D651C0F4E0E0048DF1C /* sl29@3x.png in Resources */,
+				763C4D671C0F4E0E0048DF1C /* sl40@3x.png in Resources */,
+				763C4D631C0F4E0E0048DF1C /* app60@3x.png in Resources */,
 				76E0D14A1C0F3A99001C7BA2 /* saveButton.png in Resources */,
 				76E0D14F1C0F3B31001C7BA2 /* home.png in Resources */,
+				763C4D6B1C0F4E0E0048DF1C /* add.png in Resources */,
 				76E0D1241C0F39D2001C7BA2 /* LaunchScreen.storyboard in Resources */,
+				763C4D681C0F4E0E0048DF1C /* saveButton.png in Resources */,
 				76E0D14E1C0F3B31001C7BA2 /* add.png in Resources */,
+				763C4D691C0F4E0E0048DF1C /* search.png in Resources */,
 				76E0D1211C0F39D2001C7BA2 /* Assets.xcassets in Resources */,
+				763C4D641C0F4E0E0048DF1C /* sl29@2x.png in Resources */,
 				76E0D11C1C0F39D2001C7BA2 /* Main.storyboard in Resources */,
+				763C4D661C0F4E0E0048DF1C /* sl40@2x.png in Resources */,
+				763C4D6A1C0F4E0E0048DF1C /* CoreDataDemoApp.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,8 +368,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				763C4D721C10AD020048DF1C /* AddViewController.swift in Sources */,
 				76E0D11F1C0F39D2001C7BA2 /* ContactsApp.xcdatamodeld in Sources */,
 				76E0D1191C0F39D1001C7BA2 /* ViewController.swift in Sources */,
+				763C4D701C0F51550048DF1C /* ContactsTableViewController.swift in Sources */,
 				76E0D1171C0F39D1001C7BA2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -513,6 +597,7 @@
 				76E0D1401C0F39D2001C7BA2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		76E0D1411C0F39D2001C7BA2 /* Build configuration list for PBXNativeTarget "ContactsAppTests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +606,7 @@
 				76E0D1431C0F39D2001C7BA2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		76E0D1441C0F39D2001C7BA2 /* Build configuration list for PBXNativeTarget "ContactsAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -529,6 +615,7 @@
 				76E0D1461C0F39D2001C7BA2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
